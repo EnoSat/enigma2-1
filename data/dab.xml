@@ -76,7 +76,7 @@
       <feed id="oberfranken_7e_12567" name="Oberfranken (7E/12567V_6err)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.11" multicastPort="60011" ensembleId="1131" />
       <feed id="unterfranken_7e_12567" name="Unterfranken (7E/12567V_7)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.13" multicastPort="60013" ensembleId="1134" />
       <feed id="oberpfalz_7e_12567" name="Oberpfalz (7E/12567V_8)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.14" multicastPort="60014" ensembleId="1161" />
-      <feed id="oberbayern_schwaben_7e_12567" name="Oberbayern & Schwaben (7E/12567V_9err)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.15" multicastPort="60015" ensembleId="1162" />
+      <feed id="oberbayern_schwaben_7e_12567" name="Oberbayern + Schwaben (7E/12567V_9err)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.15" multicastPort="60015" ensembleId="1162" />
       <feed id="niederbayern_7e_12567" name="Niederbayern (7E/12567V_10)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.16" multicastPort="60016" ensembleId="117F" />
       <feed id="bayern_7e_12567" name="Bayern (7E/12567V_11)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.16.242.17" multicastPort="60017" ensembleId="10A5" />
       <feed id="hr_radio_7e_12567" name="hr Radio Hessen (7E/12567V_12)" pid="0065" decoder="fedi2eti" transport="MPE/UDP/EDI" multicastAddress="239.192.254.200" multicastPort="10000" ensembleId="107A" />
